@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ShoppingList</string>
+    <string name="dialog_delete_title">Delete an item</string>
+    <string name="dialog_delete_msg">Have you already purchased this item?</string>
+    <string name="delete">YES</string>
+    <string name="cancel">NO</string>
+    <string name="edit">Edit</string>
+</resources>
